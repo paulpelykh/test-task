@@ -1,3 +1,5 @@
+Visit [https://test-task-two-brown.vercel.app/](https://test-task-two-brown.vercel.app/) to experience the game.
+
 # Game Board Implementation
 
 This project demonstrates a simple implementation of a rectangular game board in JavaScript, following Object-Oriented Programming (OOP) principles. The game board consists of cells, each containing a game element. The objective is to remove the selected element and its entire associated group from the board, achieved through the use of the Depth-First Search (DFS) algorithm.
